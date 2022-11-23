@@ -2,6 +2,8 @@
 name = "lyte"
 version = "0.1.0"
 authors = ["Simon Larsson <simon.larsson-general@protonmail.com>"]
+description = "Rust-like typesystem created for the Lumina project"
+license = "MIT"
 edition = "2018"
 
 [dependencies]
