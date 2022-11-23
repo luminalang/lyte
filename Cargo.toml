@@ -1,0 +1,11 @@
+[package]
+name = "lyte"
+version = "0.1.0"
+authors = ["Simon Larsson <simon.larsson-general@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+itertools = "^0.10"
+smallvec = "*"
+owo-colors = "*"
+insta = "*"

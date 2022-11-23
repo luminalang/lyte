@@ -1,0 +1,7 @@
+---
+source: lumina-typesystem/src/tests.rs
+expression: "format!(\"{}\\n{}\", inst.to_type(()), tenv)"
+---
+(option 'a)
+[32mwith tenv[39m
+  'a [35m->[39m int

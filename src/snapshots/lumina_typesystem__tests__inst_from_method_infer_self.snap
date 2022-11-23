@@ -1,0 +1,5 @@
+---
+source: lumina-typesystem/src/tests.rs
+expression: "inst.method.to_foreign(tenv, Generics::new())"
+---
+∀a is From int. (int -> a)

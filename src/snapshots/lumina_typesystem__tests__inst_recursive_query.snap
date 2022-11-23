@@ -1,0 +1,5 @@
+---
+source: lumina-typesystem/src/tests.rs
+expression: "{ let f = func!(forall a [\"From\" a].(a => a)); inst!(f int) }"
+---
+(int -> int)

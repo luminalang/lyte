@@ -1,0 +1,5 @@
+---
+source: lumina-typesystem/src/tests.rs
+expression: "inst.typing.to_foreign(&tenv, Generics::new())"
+---
+((option int) -> int)
